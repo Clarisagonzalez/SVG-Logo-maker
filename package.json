@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "graceful-fs": "^4.2.11",
     "i": "^0.3.7",
     "inquirer": "^9.2.12",
     "svg.js": "^2.7.1"

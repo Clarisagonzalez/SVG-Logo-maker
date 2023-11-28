@@ -1,5 +1,5 @@
-const filesystem = require('./node_modules/graceful-fs/graceful-fs');
-const { Circle, Square, Triangle } = require("./SVG-Logo-maker/lib/shapes");
+const filesystem = require('graceful-fs');
+const { Circle, Square, Triangle } = require("../lib/shapes");
 
 class Svg {
     constructor() {

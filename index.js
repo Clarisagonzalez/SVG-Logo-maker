@@ -1,5 +1,5 @@
 const filesystem = require('graceful-fs');
-const { Circle, Square, Triangle } = require("../lib/shapes");
+const { Circle, Square, Triangle } = require("./lib/shapes");
 
 class Svg {
     constructor() {

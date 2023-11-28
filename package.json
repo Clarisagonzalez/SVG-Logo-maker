@@ -1,0 +1,21 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "inquirer": "^9.2.12",
+    "svg.js": "^2.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

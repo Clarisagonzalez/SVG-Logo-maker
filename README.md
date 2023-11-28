@@ -3,13 +3,11 @@
 ## Description
 SVG Logo Maker is a simple command-line tool that allows you to generate SVG logos with customizable text and shapes.
 
-## ## Table of Contents
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
 - [Testing](#testing)
-- [Examples](#examples)
 - [License](#license)
 
 ## Installation
@@ -19,18 +17,13 @@ Before using SVG Logo Maker, make sure you have [Node.js](https://nodejs.org/) i
  3. npm install
 
 ## Usage
-1.Complete the installation steps and run following command
-2.node index.js
-3.Follow the prompts
+1. Complete the installation steps and run following command
+2. node index.js
+3. Follow the prompts
 
 ## Testing
 
 [Walk through video](https://drive.google.com/file/d/1QtfJhmSutCSKBxr1YKBQV-GcWjPTNQl5/view)
-
-## Screenshots
-![SVG Logo](C:\Users\JD PC\svg-logo-maker\svg logo.png)
-
-![Passing Jest](C:\Users\JD PC\svg-logo-maker\passing jest.png)
 
 ## Credits
 N/A
